@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "12346977408",
+    "firebase_url": "https://petagram-36617.firebaseio.com",
+    "project_id": "petagram-36617",
+    "storage_bucket": "petagram-36617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12346977408:android:4e3e940b41a64f94",
+        "android_client_info": {
+          "package_name": "com.alex.android.petagraminstagramapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12346977408-d74vqogn6fvijunqfs3kus4cc65k7j0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcwU4g0Or7d-8q6qQtH7NdeFLgYlPdYMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
